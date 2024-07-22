@@ -1,0 +1,83 @@
+li{
+    display: inline;
+}
+.top{
+    margin-left: 80%;
+}
+.par1{
+margin:0px;
+}
+.buttons{
+    text-align: center;
+}
+.but1,.but2{
+    font-size: 30px;
+    padding:10px;
+    margin: 10px;
+    border-radius: 20px;
+    background: gray;
+    font-style:initial;
+    display: inline-block;
+    text-align: center;
+}
+.hed1{
+    margin-right:3.4%;
+}
+.paragraph{
+    text-align: center;
+}
+.entry{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    background: gray;
+    color: wheat;
+    margin: 0px;
+    padding:0px;
+}
+.par3{
+    font-size: 12px;
+}
+.date{
+    
+    color:goldenrod;
+    height: 20px;
+    display: inline;
+}
+.table{
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    background:lightblue;
+    color: black;
+    table-layout:fixed;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tr,.td,.table{
+   border: 1px dotted white;
+   border-collapse:separate;
+   font-size: 20px;
+}
+.th{
+    background: gray;
+    padding: 50px;
+    text-transform: uppercase; 
+}
+.body{
+    background:lightgray;
+}
+.home{
+   
+    display: inline;
+}
+.but1{
+    cursor: pointer;
+}
+.but2{
+    cursor: pointer;
+}
+
+
