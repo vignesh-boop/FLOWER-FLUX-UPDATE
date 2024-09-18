@@ -82,7 +82,3 @@ We welcome contributions to improve the **Flower Flux Update** project. Feel fre
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this according to the specific details of your project!
